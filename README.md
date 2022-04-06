@@ -1,4 +1,7 @@
 # Employee-Payroll-Management-System
+
+A payroll management system is a software that is used to manage all your employee's financial records in a simple and automated fashion. This payroll management system manages employee's salaries, work locations, projects, information etc.
+
 Summary:
 1.	Employee Information
 
