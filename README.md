@@ -60,4 +60,3 @@ The name of the table tells you most of the things. This table includes the loca
 
 Leave:
 Leave table keeps the record of the number of leaves an employee takes or has taken over the course of any month or an year
-
